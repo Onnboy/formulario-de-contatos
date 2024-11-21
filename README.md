@@ -59,9 +59,9 @@ O formulário contém:
    python3 formulario.py
 
 📖 Melhorias Futuras:
->> Adicionar validação de formato de e-mail.
->> Implementar envio real dos dados para um servidor ou API.
->> Melhorar o design com estilos personalizados.
+. Adicionar validação de formato de e-mail.
+. Implementar envio real dos dados para um servidor ou API.
+. Melhorar o design com estilos personalizados.
 
 📂 Estrutura do Projeto até então:
 formulario-cadastro/
