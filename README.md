@@ -63,6 +63,8 @@ O formulário contém:
 . Implementar envio real dos dados para um servidor ou API.
 . Melhorar o design com estilos personalizados.
 
+
+
 📂 Estrutura do Projeto até então:
 formulario-cadastro/
 │
