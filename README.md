@@ -40,7 +40,7 @@ O formulário contém:
 
 ´´´bash
 1. Clone este repositório:
-  >>> git clone https://github.com/seu-usuario/formulario-cadastro.git
+  >>> git clone https://github.com/Onnboy/formulario-cadastro.git
 2. Navegue até a pasta:
   >>> cd formulario-cadastro
 3. Crie e ative um ambiente virtual (opcional, mas recomendado):
