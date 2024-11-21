@@ -63,11 +63,14 @@ O formulário contém:
 . Implementar envio real dos dados para um servidor ou API.
 . Melhorar o design com estilos personalizados.
 
-
-
 📂 Estrutura do Projeto até então:
+
 formulario-cadastro/
+
 │
+
 ├── main.py           # Código principal do formulário
+
 ├── requirements.txt  # Arquivos ignorados pelo Git
+
 └── README.md         # Documentação do projeto
