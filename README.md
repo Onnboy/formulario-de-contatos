@@ -26,7 +26,7 @@ O formulário contém:
 1. **Formulário Simples**:
    - Insira nome, e-mail e mensagem.
 
-   (futuras
+(futuras
 2. **Validação de Campos**:
    - Exibe mensagem de erro caso algum campo esteja vazio.
 3. **Confirmação de Envio**:
