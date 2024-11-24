@@ -21,7 +21,7 @@ O formulário contém:
 
 ---
 
-## 🎯 Funcionalidades
+## 🎯 Funcionalidades(futuras)
 
 1. **Formulário Simples**:
    - Insira nome, e-mail e mensagem.
