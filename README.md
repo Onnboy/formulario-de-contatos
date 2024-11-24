@@ -25,12 +25,14 @@ O formulário contém:
 
 1. **Formulário Simples**:
    - Insira nome, e-mail e mensagem.
+
+   (futuras
 2. **Validação de Campos**:
    - Exibe mensagem de erro caso algum campo esteja vazio.
 3. **Confirmação de Envio**:
    - Exibe mensagem de sucesso ao enviar o formulário.
 4. **Reset Automático**:
-   - Limpa os campos após o envio bem-sucedido.
+   - Limpa os campos após o envio bem-sucedido.)
 
 ---
 
