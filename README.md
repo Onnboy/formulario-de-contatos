@@ -2,7 +2,7 @@
 
 Este é um simples formulário de cadastro desenvolvido com [Flet](https://flet.dev/), que permite ao usuário inserir informações como nome, e-mail e uma mensagem. O projeto valida os campos e exibe mensagens de confirmação ou erro com base nos dados fornecidos.
 
----
+--- 
 
 ## 💻 Demonstração
 
